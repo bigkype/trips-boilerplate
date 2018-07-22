@@ -1,0 +1,44 @@
+[
+  {
+    "id": 115,
+    "name": "Arsenal Tube Station",
+    "imageUrl": "https://raw.githubusercontent.com/bigkype/trips-boilerplate/master/images/img1.jpg",
+    "lat": 51.558287,
+    "lng": -0.1057471
+  },
+  {
+    "id": 148,
+    "name": "Pizza Pino Paris",
+    "imageUrl": "https://raw.githubusercontent.com/bigkype/trips-boilerplate/master/images/img2.jpg",
+    "lat": 48.8700035,
+    "lng": 2.3065954
+  },
+  {
+    "id": 201,
+    "name": "Cardiff Central Station",
+    "imageUrl": "https://raw.githubusercontent.com/bigkype/trips-boilerplate/master/images/img3.jpg",
+    "lat": 51.4755458,
+    "lng": -3.1784676
+  },
+  {
+    "id": 207,
+    "name": "Amsterdam Arena",
+    "imageUrl": "https://raw.githubusercontent.com/bigkype/trips-boilerplate/master/images/img4.jpg",
+    "lat": 52.3136007,
+    "lng": 4.9404251
+  },
+  {
+    "id": 216,
+    "name": "Oxford Street",
+    "imageUrl": "https://raw.githubusercontent.com/bigkype/trips-boilerplate/master/images/img5.jpg",
+    "lat": 51.5159403,
+    "lng": -0.1370269
+  },
+  {
+    "id": 221,
+    "name": "Westminster Bridge",
+    "imageUrl": "https://raw.githubusercontent.com/bigkype/trips-boilerplate/master/images/img6.jpg",
+    "lat": 51.5008989,
+    "lng": -0.1220629
+  }
+]
